@@ -65,7 +65,7 @@ const About = () => {
     {
       year: "2023",
       title: "Mejor Artista Revelación",
-      organization: "Premios de la Música Country Latina",
+      organization: "Premios de la Música pop Latina",
       description: "Reconocimiento al talento emergente en la fusión de géneros"
     },
     {

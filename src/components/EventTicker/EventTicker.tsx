@@ -9,7 +9,7 @@ interface Event {
 const events: Event[] = [
   {
     date: "15 Mayo",
-    title: "Noche de Country Latino",
+    title: "Noche de pop Latino",
     location: "Teatro Real, Madrid"
   },
   {

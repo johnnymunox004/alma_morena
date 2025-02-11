@@ -17,7 +17,7 @@ const Music = () => {
       cover: logo,
       audioUrl: pista2,
       releaseDate: "2024",
-      description: "Una fusión única de country y cumbia"
+      description: "Una fusión única de pop y cumbia"
     }
     // Aquí se pueden agregar más canciones después
   ]
